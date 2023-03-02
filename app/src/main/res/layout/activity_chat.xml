@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:orientation="vertical"
+    tools:context=".Chat">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_weight="20"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:id="@+id/layout1">
+
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/totalSent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        />
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="80dp"
+        android:id="@+id/scrollStikerView">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:id="@+id/stikers">
+
+            <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/btn_sticker1"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:onClick="clickSticker"
+                android:src="@drawable/eat" />
+
+            <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/btn_sticker2"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:onClick="clickSticker"
+                android:src="@drawable/cry" />
+
+            <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/btn_sticker3"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:onClick="clickSticker"
+                android:src="@drawable/hahaha" />
+            <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/btn_sticker4"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:onClick="clickSticker"
+                android:src="@drawable/hungry" />
+
+            <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/btn_sticker5"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:onClick="clickSticker"
+                android:src="@drawable/icecream" />
+            <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/btn_sticker6"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:onClick="clickSticker"
+                android:src="@drawable/sweaty" />
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <include
+
+        layout="@layout/message_area"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        android:layout_marginTop="5dp"/>
+</LinearLayout>

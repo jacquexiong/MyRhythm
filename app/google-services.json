@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590380891438",
+    "project_id": "stickerchat-fbabe",
+    "storage_bucket": "stickerchat-fbabe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590380891438:android:6b175da03001fc4ccc8ebf",
+        "android_client_info": {
+          "package_name": "edu.neu.madcourse.stickerapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590380891438-24c5cjp1cask5m98jaddg2dvvpqt1adn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrj-9AuCAvVkr5mXepkLVumQBfv4KPuQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590380891438-24c5cjp1cask5m98jaddg2dvvpqt1adn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
