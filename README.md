@@ -9,7 +9,7 @@ MyRhythm is the ultimate running companion app. It syncs your running tempo with
 
 
 By Jacquelyn (Junting) Xiong
-Aug 15 2022
+Aug 15, 2022
 
  
 ## Features
@@ -48,18 +48,17 @@ The app uses Firebase for database and authentication, which enables real-time d
 
 ## Screenshots
 
-
-#### 1. Register
-<img src="screenshots/Register.png" width="30%" height="30%">
-
-#### 2. Login
-<img src="screenshots/Login.png" width="30%" height="30%">
-
-#### 3. Home page
+#### 1. Home page
 <img src="screenshots/Home.png" width="30%" height="30%">
 
-#### 4. Leaderboard
+#### 2. Leaderboard
 <img src="screenshots/leaderboard.gif" width="30%" height="30%">
+
+#### 3. Register
+<img src="screenshots/Register.png" width="30%" height="30%">
+
+#### 4. Login
+<img src="screenshots/Login.png" width="30%" height="30%">
 
 #### 5. Liked Songs
 <img src="screenshots/LikedSongs.png" width="30%" height="30%">
