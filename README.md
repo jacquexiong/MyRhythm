@@ -16,22 +16,22 @@ Aug 15, 2022
 
 
 #### 1. Running Tempo Tracker
-MyRhythm uses mobile sensors to track your running tempo and play music that matches your pace.
+Uses mobile sensors to track your running tempo and play music that matches your pace.
 
 #### 2. Music Playlist
-The app features a vast selection of songs that are sorted based on BPM to match your running tempo.
+Features a vast selection of songs that are sorted based on BPM to match your running tempo.
 
 #### 3. Leaderboard
-MyRhythm features a local and global leaderboard where you can compete with other runners in your area or around the world.
+Features a local and global leaderboard where you can compete with other runners in your area or around the world.
 
 #### 4. Google Maps Integration
-The app uses Google Maps APIs to display your geographical information and to enable the leaderboard feature.
+Integrates Google Maps APIs to display your geographical information and to enable the leaderboard feature.
 
 #### 5. Local Weather Display
-MyRhythm displays the local weather information to help you plan your runs better.
+Displays the local weather information to help you plan your runs better.
 
 #### 6. Real-time Display
-The app features real-time display of your running stats, including distance, time, and pace.
+Real-time display of your running stats.
 
 
 
