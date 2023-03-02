@@ -51,10 +51,7 @@ The app uses Firebase for database and authentication, which enables real-time d
 
 
 #### 1. Register
-<!-- 
-![Register](screenshots/Register.png)
- -->
-<img src="screenshots/Register.png" width="50%" height="50%">
+<img src="screenshots/Register.png" width="20%" height="20%">
 #### 2. Login
 ![Login](screenshots/Login.png)
 #### 3. Home page
