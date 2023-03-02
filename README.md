@@ -51,16 +51,17 @@ The app uses Firebase for database and authentication, which enables real-time d
 
 
 #### 1. Register
-<img src="screenshots/Register.png" width="20%" height="20%">
+<img src="screenshots/Register.png" width="40%" height="40%">
 #### 2. Login
-![Login](screenshots/Login.png)
+<img src="screenshots/Login.png" width="40%" height="40%">
 #### 3. Home page
-![Home Page](screenshots/Home.png)
+<img src="screenshots/Home.png" width="40%" height="40%">
 #### 4. Leaderboard
-![Leaderboard](screenshots/leaderboard.gif)
+<img src="screenshots/leaderboard.gif" width="40%" height="40%">
 #### 5. Liked Songs
-![Liked Songs](screenshots/LikedSongs.png)
+<img src="screenshots/LikedSongs.png" width="40%" height="40%">
 #### 6. Settings
-![Settings](screenshots/Settings.png)
+#### 5. Liked Songs
+<img src="screenshots/Settings.png" width="40%" height="40%">
 #### 7. Edit Settings
-![Edit Settings](screenshots/EditSetting.png)
+<img src="screenshots/EditSetting.png" width="40%" height="40%">
