@@ -1,12 +1,11 @@
 # MyRhythm - A Running App for Music Lovers
 
-# CS5520 FinalProject
-
  
 ## Introduction
 MyRhythm is a mobile application designed to enhance your running experience by syncing your running tempo with music of matching BPM. The app uses mobile sensors to track your running tempo and play music that matches your pace. MyRhythm also features a local and global leaderboard, special badge rewards system, integrated Google Maps APIs for geographical information, and a local weather display.
 
-![Home Page](screenshots/home.gif)
+<img src="screenshots/home.gif" width="30%" height="30%">
+
 
 
 By Jacquelyn (Junting) Xiong
@@ -16,22 +15,22 @@ Aug 15 2022
 ## Features
 
 
-#### Running Tempo Tracker
+#### 1. Running Tempo Tracker
 MyRhythm uses mobile sensors to track your running tempo and play music that matches your pace.
 
-#### Music Playlist
+#### 2. Music Playlist
 The app features a vast selection of songs that are sorted based on BPM to match your running tempo.
 
-#### Leaderboard
+#### 3. Leaderboard
 MyRhythm features a local and global leaderboard where you can compete with other runners in your area or around the world.
 
-#### Google Maps Integration
+#### 4. Google Maps Integration
 The app uses Google Maps APIs to display your geographical information and to enable the leaderboard feature.
 
-#### Local Weather Display
+#### 5. Local Weather Display
 MyRhythm displays the local weather information to help you plan your runs better.
 
-#### Real-time Display
+#### 6. Real-time Display
 The app features real-time display of your running stats, including distance, time, and pace.
 
 
